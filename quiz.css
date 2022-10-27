@@ -1,0 +1,80 @@
+#gamebody{
+    background-color:rgb(202, 83, 83);
+}
+
+
+#checkbtn{
+    background-color:rgb(132, 247, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:50px;
+    height:30px;
+    border-radius: 15px;
+}
+
+
+#output{
+    background:white;
+    border-radius: 10px;
+    border-top: 10px solid rgb(224, 83, 83);
+    padding: 10px;
+    float:none;
+    text-align: left;
+    width:500px;
+}
+
+
+#answerinput{
+    border-radius: 15px;
+    height: min-content;
+    width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#answerbox{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#questionbox{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#sendButton{
+    background-color: rgb(102, 230, 102);
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#number1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#number2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#answerturn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#questionturn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#player1_score , #player2_score
+{
+	display: inline-block;
+	margin-left: 10px;
+}
